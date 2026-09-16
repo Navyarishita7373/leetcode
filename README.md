@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navyarishita7373/leetcode/tree/master/0001-two-sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navyarishita7373/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Navyarishita7373/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Navyarishita7373/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/Navyarishita7373/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
