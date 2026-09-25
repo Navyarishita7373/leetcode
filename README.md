@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Navyarishita7373/leetcode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Navyarishita7373/leetcode/tree/master/0283-move-zeroes) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Navyarishita7373/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1672-richest-customer-wealth](https://github.com/Navyarishita7373/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/Navyarishita7373/leetcode/tree/master/0728-self-dividing-numbers) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Navyarishita7373/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
