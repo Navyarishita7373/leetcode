@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Navyarishita7373/leetcode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Navyarishita7373/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Navyarishita7373/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/Navyarishita7373/leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Navyarishita7373/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Navyarishita7373/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Navyarishita7373/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Navyarishita7373/leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Navyarishita7373/leetcode/tree/master/0076-minimum-window-substring) |
 | [0409-longest-palindrome](https://github.com/Navyarishita7373/leetcode/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/Navyarishita7373/leetcode/tree/master/0525-contiguous-array) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Navyarishita7373/leetcode/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Navyarishita7373/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Navyarishita7373/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Linked List
