@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Navyarishita7373/leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Navyarishita7373/leetcode/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/Navyarishita7373/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0409-longest-palindrome](https://github.com/Navyarishita7373/leetcode/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Navyarishita7373/leetcode/tree/master/0525-contiguous-array) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Navyarishita7373/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/Navyarishita7373/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/Navyarishita7373/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Navyarishita7373/leetcode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Navyarishita7373/leetcode/tree/master/0707-design-linked-list) |
