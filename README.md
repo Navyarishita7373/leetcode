@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Navyarishita7373/leetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Navyarishita7373/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Navyarishita7373/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Navyarishita7373/leetcode/tree/master/0409-longest-palindrome) |
 | [0917-reverse-only-letters](https://github.com/Navyarishita7373/leetcode/tree/master/0917-reverse-only-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Navyarishita7373/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Navyarishita7373/leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Navyarishita7373/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Navyarishita7373/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Navyarishita7373/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Navyarishita7373/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Navyarishita7373/leetcode/tree/master/0917-reverse-only-letters) |
 ## Binary Search
