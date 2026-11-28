@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Navyarishita7373/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Navyarishita7373/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Navyarishita7373/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Navyarishita7373/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Navyarishita7373/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Navyarishita7373/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Navyarishita7373/leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Navyarishita7373/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Navyarishita7373/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
